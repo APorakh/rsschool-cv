@@ -42,3 +42,27 @@ Strong interest in computer since and programming languages since 2022.
 - javascript basic
 - git, github
 - VSCode
+
+---
+
+## Code example
+
+### Simple calculator in Python
+
+Takes the first number, takes arithmetic sign then takes the second number. If the sign is “/” and the second number is 0 then program returns “You can't divide on 0”. In other cases, it performs calculations with given numbers
+
+<span style=color:#6cb8cc>first = int(input()) <br>
+symbol = input() <br>
+second = int(input()) <br>
+  <br>
+if symbol == "/" and second == 0: <br>
+print("You can't divide on 0") <br>
+else: <br>
+if symbol == "+": <br>
+   result = first + second <br>
+if symbol == "-": <br>
+   result = first - second <br>
+if symbol == "_": <br>
+   result = first _ second <br>
+if symbol == "/": <br>
+   result = first / second <br></span>
