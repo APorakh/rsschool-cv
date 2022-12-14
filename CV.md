@@ -81,7 +81,7 @@ if symbol == "/": <br>
 
 |            |                   |
 | ---------- | ----------------- |
-| English    | Intermediate (B2) |
+| English    | Intermediate (B1) |
 | Belorusian | Native            |
 | Polish     | Proficient        |
 | Russian    | Proficient        |
