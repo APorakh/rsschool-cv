@@ -66,3 +66,22 @@ if symbol == "_": <br>
    result = first _ second <br>
 if symbol == "/": <br>
    result = first / second <br></span>
+
+---
+
+## Courses
+
+- Html and CSS Marathon GoIt
+- Javascript manual on [javascript.info](https://javascript.info/) (in progress)
+- RS School's Course «JavaScript/Front-end. Stage 0» (in progress)
+
+---
+
+## Languages
+
+|            |                   |
+| ---------- | ----------------- |
+| English    | Intermediate (B2) |
+| Belorusian | Native            |
+| Polish     | Proficient        |
+| Russian    | Proficient        |
