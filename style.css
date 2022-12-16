@@ -1,7 +1,16 @@
 body {
-  background: #dde3ee;
+  background: #edeff2;
 }
 
 .header-secondary {
   color: #1c3225;
+}
+
+.wrapper {
+  background-color: #dee3eb;
+  border: 1px solid #1c32253f;
+  width: 1000px;
+  margin: auto;
+  justify-content: center;
+  box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
 }
